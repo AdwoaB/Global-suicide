@@ -29,7 +29,15 @@ The age group less likely to commit suicide is children within the age range of 
  Within the age range of high suicide commits, a greater percentage is committed by males.
 With respect to older generations[55-74 years & 75+years], females commit more suicides than males.
 
-   
+  <div>
+    <a href="https://plot.ly/~Adwoa_B/193/?share_key=nGe4HMXh3ji9UYEtJwckKg" target="_blank" title="plot from API (11)" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/193.png?share_key=nGe4HMXh3ji9UYEtJwckKg" alt="plot from API (11)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Adwoa_B:193" sharekey-plotly="nGe4HMXh3ji9UYEtJwckKg" src="https://plot.ly/embed.js" async></script>
+  Fig 3 - Percentage of Suicide Per Generation
+</div>
+
+ Generation X accounts for the highest percentage of global suicides, followed by Silent Generation.
+The least suicidal generation is Generation Z
+ 
     
     
 <div>
