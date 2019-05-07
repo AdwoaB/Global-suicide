@@ -62,7 +62,8 @@ The decline is evident for the other countries as well, with the exception of US
     <script data-plotly="Adwoa_B:179" sharekey-plotly="xaLAJurLrb9yus4RAV8LnZ" src="https://plot.ly/embed.js" async></script>
 </div>
 
-    
+
+ Although Russia leads in global suicide rates, certain years have other countries leading in suicide rates.
     
 
   
