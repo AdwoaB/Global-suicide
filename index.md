@@ -76,14 +76,40 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 
 ## RISK FACTORS
 
-
  Suicide is multicausal and the reasons why people commit suicide vary from person to person.
  Some reasons why people commit suicide include:
  
- _History of Sustance Abuse_                          _Exposure to Bullying_
+ **History of Sustance Abuse**   
  
-   _Relationship Problems_                                  _Mental Health Conditions_
+ _Exposure to Bullying_
+
+**Relationship Problems**                              
+
+_Mental Health Conditions_
  
-   _Loss of a Loved One_                                       _Shame_
+**Loss of a Loved One**                                      
+
+_Shame_
+
+
+## SUICIDE PREVENTION
+ 
+ Preventing suicide requires a collective effort of family members & loved ones, local organizations, as well as health professionals in order to decrease suicide incidents.
+ 
+Preventive methods include:
+
+_Strengthening Economic Support_
+
+**Strengthening Access and Delivery of Suicide Care**
+
+_Creating Protective Environments_
+
+**Promoting Connectedness**
  
  
+ 
+ 
+ 
+## REFERENCES
+ https://www.beyondblue.org.au/the-facts/suicide-prevention/worried-about-suicide/reasons-for-suicidal-feelings
+ https://www.cdc.gov/violenceprevention/suicide/fastfact.html
