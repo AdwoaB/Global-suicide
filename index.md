@@ -127,3 +127,48 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 </div>
 </div>
 </section>
+
+
+<section class="program-feature program-feature--flex" role="region" aria-label="program features">
+<div class="program-feature__block program-feature__block--3x">
+<picture class="program-feature__image"><source class="imgix-fluid" media="(min-width: 768px)" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=960&amp;h=480 960w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=480&amp;h=240 480w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=320&amp;h=160 320w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=240&amp;h=120 240w"><source class="imgix-fluid" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=0&amp;h=0 0w"><img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Health_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw"></picture>
+<h3 class="program-feature__header">Health&nbsp;Factors</h3>
+<div class="program-feature__body"><ul>
+<li>Mental health conditions
+<ul>
+<li>Depression</li>
+<li>Substance use problems</li>
+<li>Bipolar disorder</li>
+<li>Schizophrenia</li>
+<li>Personality traits of aggression, mood changes and poor relationships</li>
+<li>Conduct disorder</li>
+<li>Anxiety disorders</li>
+</ul>
+</li>
+<li>Serious physical health conditions including pain</li>
+<li>Traumatic brain injury</li>
+</ul>
+</div>
+</div>
+<div class="program-feature__block program-feature__block--3x">
+<picture class="program-feature__image"><source class="imgix-fluid" media="(min-width: 768px)" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=960&amp;h=480 960w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=480&amp;h=240 480w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=320&amp;h=160 320w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=240&amp;h=120 240w"><source class="imgix-fluid" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=0&amp;h=0 0w"><img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Environmental_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw"></picture>
+<h3 class="program-feature__header">Environmental&nbsp;Factors</h3>
+<div class="program-feature__body"><ul>
+<li>Access to lethal means including firearms and drugs</li>
+<li>Prolonged stress, such as harassment, bullying, relationship problems or unemployment</li>
+<li>Stressful life events, like rejection, divorce, financial crisis, other life transitions or loss</li>
+<li>Exposure to another person’s suicide, or to graphic or sensationalized accounts of suicide</li>
+</ul>
+</div>
+</div>
+<div class="program-feature__block program-feature__block--3x">
+<picture class="program-feature__image"><source class="imgix-fluid" media="(min-width: 768px)" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=960&amp;h=480 960w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=480&amp;h=240 480w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=320&amp;h=160 320w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=240&amp;h=120 240w"><source class="imgix-fluid" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=0&amp;h=0 0w"><img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Historical_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw"></picture>
+<h3 class="program-feature__header">Historical&nbsp;Factors</h3>
+<div class="program-feature__body"><ul>
+<li>Previous suicide attempts</li>
+<li>Family history of suicide</li>
+<li>Childhood abuse, neglect or trauma</li>
+</ul>
+</div>
+</div>
+</section>
