@@ -1,4 +1,13 @@
 
+
+<div>
+
+  Suicide, being one of the world’s leading causes of death, refers to death caused by injuring oneself with the intent to die, according to Centers for Disease Control & Prevention (CDC) . 
+
+ This analysis highlights countries with high suicide rates, as well as the age ranges that commit suicides and the male-to-female ratio of global suicides.
+</div>
+
+
 <div>
     <a href="https://plot.ly/~Adwoa_B/183/?share_key=x56rBAykWnre1x7LtHHBNb" target="_blank" title="Suicides per age group" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/183.png?share_key=x56rBAykWnre1x7LtHHBNb" alt="Suicides per age group" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Adwoa_B:183" sharekey-plotly="x56rBAykWnre1x7LtHHBNb" src="https://plot.ly/embed.js" async></script>
