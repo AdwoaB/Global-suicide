@@ -78,5 +78,5 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 
 
  Suicide is multicausal and the reasons why people commit suicide vary from person to person
- ![Capture6.png]
+ ![<img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw">]
 
