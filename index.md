@@ -11,7 +11,7 @@
   
 <div>
   
-# Fig 1 - Suicides Per Age Groups
+**Fig 1 - Suicides Per Age Groups**
   
     <a href="https://plot.ly/~Adwoa_B/183/?share_key=x56rBAykWnre1x7LtHHBNb" target="_blank" title="Suicides per age group" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/183.png?share_key=x56rBAykWnre1x7LtHHBNb" alt="Suicides per age group" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Adwoa_B:183" sharekey-plotly="x56rBAykWnre1x7LtHHBNb" src="https://plot.ly/embed.js" async></script>  
@@ -24,7 +24,7 @@ The age group less likely to commit suicide is children within the age range of 
     
  <div>
   
-#   Fig 2 - Male-To-Female Ratio Per Age Group
+**Fig 2 - Male-To-Female Ratio Per Age Group**
 
     <a href="https://plot.ly/~Adwoa_B/175/?share_key=jNGTAIfLttE35DPlW415yG" target="_blank" title="Male-to-Female ratio" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/175.png?share_key=jNGTAIfLttE35DPlW415yG" alt="Male-to-Female ratio" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Adwoa_B:175" sharekey-plotly="jNGTAIfLttE35DPlW415yG" src="https://plot.ly/embed.js" async></script>
@@ -35,7 +35,7 @@ With respect to older generations[55-74 years & 75+years], females commit more s
 
   <div>
   
- # Fig 3 - Percentage of Suicide Per Generation
+ **Fig 3 - Percentage of Suicide Per Generation**
  
     <a href="https://plot.ly/~Adwoa_B/193/?share_key=nGe4HMXh3ji9UYEtJwckKg" target="_blank" title="plot from API (11)" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/193.png?share_key=nGe4HMXh3ji9UYEtJwckKg" alt="plot from API (11)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Adwoa_B:193" sharekey-plotly="nGe4HMXh3ji9UYEtJwckKg" src="https://plot.ly/embed.js" async></script>
