@@ -79,4 +79,19 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 
  Suicide is multicausal and the reasons why people commit suicide vary from person to person
  ![<img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw">]
+ ![<h3 class="program-feature__header">Talk</h3>]
+ ![<div class="program-feature__block program-feature__block--3x">
+<picture class="program-feature__image"><source class="imgix-fluid" media="(min-width: 768px)" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=960&amp;h=480 960w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=480&amp;h=240 480w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=320&amp;h=160 320w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=240&amp;h=120 240w"><source class="imgix-fluid" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=0&amp;h=0 0w"><img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Talk_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw"></picture>
+<h3 class="program-feature__header">Talk</h3>
+<div class="program-feature__body"><p>If a person talks about:</p>
+<ul>
+<li>Killing themselves</li>
+<li>Feeling hopeless</li>
+<li>Having no reason to live</li>
+<li>Being a burden to others</li>
+<li>Feeling trapped</li>
+<li>Unbearable pain</li>
+</ul>
+</div>
+</div>]
 
