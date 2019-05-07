@@ -7,11 +7,13 @@ Fig 1 - Suicides Per Age Groups
 
 
 <div>
-Over 30% of suicides are committed by people within the age range of 35-54 years.
+  Over 30% of suicides are committed by people within the age range of 35-54 years.
 The age group less likely to commit suicide is children within the age range of 5-14 years
 </div>
 
-
+<div>
+    
+</div>    
 <div>
     <a href="https://plot.ly/~Adwoa_B/173/?share_key=r26LL3bcuXKMQZGFNrA6xk" target="_blank" title="d3-world-map" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/173.png?share_key=r26LL3bcuXKMQZGFNrA6xk" alt="d3-world-map" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Adwoa_B:173" sharekey-plotly="r26LL3bcuXKMQZGFNrA6xk" src="https://plot.ly/embed.js" async></script>
