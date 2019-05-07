@@ -56,6 +56,12 @@ The least suicidal generation is Generation Z
 The decline is evident for the other countries as well, with the exception of USA, which continues to record increasing rates of suicide in recent years.
 
  
+ **Fig 5 - Annual Suicide Trend**
+ <div>
+    <a href="https://plot.ly/~Adwoa_B/179/?share_key=xaLAJurLrb9yus4RAV8LnZ" target="_blank" title="Annual Suicide Trend" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/179.png?share_key=xaLAJurLrb9yus4RAV8LnZ" alt="Annual Suicide Trend" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Adwoa_B:179" sharekey-plotly="xaLAJurLrb9yus4RAV8LnZ" src="https://plot.ly/embed.js" async></script>
+</div>
+
     
     
 
