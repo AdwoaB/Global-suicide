@@ -127,3 +127,19 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 </ul>
 </div>
 </div>
+
+<div class="program-feature__block program-feature__block--3x" style="font-size: 4px;line-height: 1.1;font-weight: 100;">
+<picture class="program-feature__image"><source class="imgix-fluid" media="(min-width: 768px)" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=960&amp;h=480 960w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=480&amp;h=240 480w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=320&amp;h=160 320w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=240&amp;h=120 240w"><source class="imgix-fluid" srcset="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=0&amp;h=0 0w, https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=0&amp;h=0 0w"><img src="https://afsp.imgix.net/wp-content/uploads/2018/05/13797_AFSP_Warning_Signs_Icons_Mood_m1.png?&amp;w=960&amp;h=480" class="imgix-fluid" alt="" sizes="100vw"></picture>
+<h3 class="program-feature__header">Mood</h3>
+<div class="program-feature__body"><p>People who are considering suicide often display one or more of the following moods:</p>
+<ul>
+<li>Depression</li>
+<li>Anxiety</li>
+<li>Loss of interest</li>
+<li>Irritability</li>
+<li>Humiliation/Shame</li>
+<li>Agitation/Anger</li>
+<li>Relief/Sudden Improvement</li>
+</ul>
+</div>
+</div>
