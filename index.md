@@ -74,3 +74,5 @@ The decline is evident for the other countries as well, with the exception of US
      
 According to WHO, over 800,000 deaths are due to suicides every year and this is compatible with an age-standardized suicida rate of about 11.5 per 100,000 people - this is equivalent to someone dying of suicide every 40 seconds.
 
+## RISK FACTORS
+
