@@ -72,11 +72,11 @@ The decline is evident for the other countries as well, with the exception of US
     <script data-plotly="Adwoa_B:173" sharekey-plotly="r26LL3bcuXKMQZGFNrA6xk" src="https://plot.ly/embed.js" async></script>
 </div>
      
-According to WHO, over 800,000 deaths are due to suicides every year and this is compatible with an age-standardized suicida rate of about 11.5 per 100,000 people - this is equivalent to someone dying of suicide every 40 seconds.
+According to WHO, over 800,000 deaths are due to suicides every year and this is compatible with an age-standardized suicide rate of about 11.5 per 100,000 people - this is equivalent to someone dying of suicide every 40 seconds.
 
 ## RISK FACTORS
 
- Suicide is multicausal and the reasons why people commit suicide vary from person to person.
+ Suicide is multi-causal and the reasons why people commit suicide vary from person to person.
  Some reasons why people commit suicide include:
  
  **History of Sustance Abuse**   
