@@ -44,6 +44,17 @@ With respect to older generations[55-74 years & 75+years], females commit more s
 
  Generation X accounts for the highest percentage of global suicides, followed by Silent Generation.
 The least suicidal generation is Generation Z
+
+
+**Suicide Trend of Top Six Countries**
+<div>
+    <a href="https://plot.ly/~Adwoa_B/187/?share_key=xSaajs1F1aLFYQeDgwiJho" target="_blank" title="Annual trend of suicide" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/187.png?share_key=xSaajs1F1aLFYQeDgwiJho" alt="Annual trend of suicide" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Adwoa_B:187" sharekey-plotly="xSaajs1F1aLFYQeDgwiJho" src="https://plot.ly/embed.js" async></script>
+</div>
+
+ Russia records extremely high rates of suicide but the rates start to decline after 1997. 
+The decline is evident for the other countries as well, with the exception of USA, which continues to record increasing rates of suicide in recent years.
+
  
     
     
