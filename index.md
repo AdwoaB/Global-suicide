@@ -77,9 +77,13 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
 ## RISK FACTORS
 
 
- Suicide is multicausal and the reasons why people commit suicide vary from person to person
+ Suicide is multicausal and the reasons why people commit suicide vary from person to person.
+ Some reasons why people commit suicide include:
  
- <img class="irc_mi" src="https://www.beyondblue.org.au/images/default-source/3.the-facts/risk-factors191b20aaf37161bc846eff0000e9d3fc.jpg?sfvrsn=156a41ea_0" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" alt="Image result for suicide risk factors" style="margin-top: 0px;" data-iml="1557249306056" width="318" height="353">
-
-
-<img class="irc_mi" src="https://www.cdc.gov/violenceprevention/images/suicide/suicide2.PNG" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" style="margin-top: 0px;" data-iml="1557249571470" alt="Image result for how to prevent suicide" width="383" height="353">
+ _History of Sustance Abuse_                          _Exposure to Bullying_
+ 
+   _Relationship Problems_                                  _Mental Health Conditions_
+ 
+   _Loss of a Loved One_                                       _Shame_
+ 
+ 
