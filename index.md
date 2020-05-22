@@ -11,7 +11,6 @@
   
 <div>
     <a href="https://plotly.com/~Adwoa_B/183/?share_key=x56rBAykWnre1x7LtHHBNb" target="_blank" title="Suicides per age group" style="display: block; text-align: center;"><img src="https://plotly.com/~Adwoa_B/183.png?share_key=x56rBAykWnre1x7LtHHBNb" alt="Suicides per age group" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="Adwoa_B:183" sharekey-plotly="x56rBAykWnre1x7LtHHBNb" src="https://plotly.com/embed.js" async></script>
 </div>
 
 
